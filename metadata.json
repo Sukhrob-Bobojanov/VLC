@@ -1,0 +1,8 @@
+{
+  "name": "LuxSignal VLC",
+  "description": "Professional Optical Data Bridge using Visible Light Communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
